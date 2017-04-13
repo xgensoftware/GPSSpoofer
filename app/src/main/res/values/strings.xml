@@ -1,0 +1,37 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">GPS location Spoofer 2017</string>
+    <!-- Title of the main windows -->
+    <string name="title_activity_main">GPS location Spoofer 2017</string>
+    <!-- ADMOB -->
+    <string name="admob_banner_main_id" translatable="false">ca-app-pub-5396643054897433/2932187700</string>
+
+    <string name="menu_start">Start Fake GPS</string>
+    <string name="menu_stop">Stop Fake GPS</string>
+    <string name="menu_search">Search Location</string>
+    <string name="menu_about">About</string>
+    <string name="alert_servico_rodando_title">Service in use</string>
+    <string name="alert_servico_rodando">Stop the service first before edit coordinates!</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="notification_service_run_title">Fake GPS started</string>
+    <string name="notification_service_run_text">Start any application that uses the GPS</string>
+    <string name="toast_service_start">Fake GPS started…</string>
+    <string name="toast_service_pause">Fake GSP paused…</string>
+    <string name="search">Search</string>
+    <string name="info_search_address">Search the desired address</string>
+    <string name="cancel">Cancel</string>
+    <string name="toast_inform_search_error">ERROR: Enter the search field</string>
+
+    <string name="dialog_local_confirm_msg">Add a mark here?</string>
+    <string name="dialog_local_confirm_title">Search found</string>
+    <string name="toast_address_notfound">Address not found</string>
+    <string name="alert">Alert</string>
+    <string name="warning">Warning</string>
+    <string name="alert_mocksetting_msg">You need the \"Allow mock locations\" option enabled to be able to use the app, click OK, or go to the settings in Settings> Developer> Allow mock locations, (the location of the configuration is not the same for all devices)</string>
+    <string name="alert_mocksetting_and6_msg">You need to select this app on the \"Select mock location app\"  from Developer Options to use this app, click OK, or go to the settings in Settings> Developer> Select mock location app, and choose this aplication (always keep this option active, or the application will not work!)</string>
+    <string name="menu_sobre">%1$s, v%2$s\n\nCopyright © %03$d - ShooterBoy Entertainment 2016\nDeveloped by: Amirbekyan Sargis</string>
+    <string name="about">About</string>
+    <string name="historico">History</string>
+    <string name="sem_registros">No records</string>
+    <string name="remover">Remove</string>
+</resources>

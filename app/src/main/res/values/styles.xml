@@ -1,0 +1,12 @@
+<resources>
+
+    <color name="branco" >#ffffff</color>
+    <color name="cinza">#f8888888</color>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4dc061</item>
+        <item name="colorAccent">#4dc061</item>
+    </style>
+
+</resources>

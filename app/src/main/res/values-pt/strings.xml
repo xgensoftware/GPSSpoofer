@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Location Changer</string>
+    <string name="menu_about">Sobre</string>
+    <string name="menu_search">Pesquisar localização</string>
+    <string name="menu_start">Iniciar Localização GPS falsa</string>
+    <string name="menu_stop">Parar Localização GPS Falsa</string>
+    <string name="title_activity_main">Localização GPS Falsa</string>
+
+    <string name="alert_servico_rodando_title">Serviço em uso</string>
+    <string name="alert_servico_rodando">Pause o serviço primeiro antes de alterar as coordenadas!</string>
+    <string name="notification_service_run_title">Location Changer iniciado</string>
+    <string name="notification_service_run_text">Inicie algum aplicativo que use o GPS</string>
+    <string name="toast_service_start">Location Changer foi iniciado…</string>
+    <string name="toast_service_pause">Location Changer foi pausado…</string>
+    <string name="search">Pesquisar</string>
+    <string name="info_search_address">Pesquise o endereço desejado</string>
+    <string name="cancel">Cancelar</string>
+    <string name="toast_inform_search_error">ERRO: Informe o campo pesquisa</string>
+
+    <string name="dialog_local_confirm_msg">Adicionar uma marca aqui?</string>
+    <string name="dialog_local_confirm_title">Busca encontrada</string>
+    <string name="toast_address_notfound">Endereço não encontrado</string>
+    <string name="alert">Alerta</string>
+    <string name="warning">Aviso</string>
+    <string name="alert_mocksetting_msg">Você precisa da opção \"Permitir locais fictícios\" habilitada para poder usar o aplicativo, clique em OK, ou acesse as configurações em Configurar > Programador > Permitir locais fictícios, (o local da configuração não é o mesmo para todos dispositivos)</string>
+    <string name="alert_mocksetting_and6_msg">Você precisa selecionar este app no item \"Selecionar app de local fictícios\" da Opção do Desenvolvedor para poder usar este app, clique em OK, ou acesse as configurações em Configurar > Programador > Selecionar app de local fictício, e escolha este aplicativo  (sempre mantenha esta opção ativa, ou o aplicativo não funcionará!)</string>
+    <string name="menu_sobre">%1$s, v%2$s\n\nCopyright © %03$d - PW Design\nDesenvolvido por: Steven Pandey</string>
+    <string name="about">Sobre</string>
+    <string name="historico">Histórico</string>
+    <string name="sem_registros">Sem registros</string>
+    <string name="remover">Remover</string>
+</resources>
